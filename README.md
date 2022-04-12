@@ -83,7 +83,7 @@
 
 ---
 
-### 4️⃣ [서울 아파트 고가주택 여부 예측 머신 러닝 모델 제작](https://github.com/seahahn/ml/blob/main/seoul_apartment_price.ipynb)
+### 4️⃣ [서울 아파트 고가주택 여부 예측 머신 러닝 모델 제작](https://github.com/seahahn/ml)
 <blockquote>
   
 - 2017~2021년 서울 부동산 실거래가 데이터를 통한 서울 아파트 고가주택 여부 예측 머신 러닝 모델 제작
@@ -100,7 +100,7 @@
 
 ---
 
-### 5️⃣ [게임 회사 데이터 분석](https://github.com/seahahn/data_analysis/blob/main/game_company_data.ipynb)
+### 5️⃣ [게임 회사 데이터 분석](https://github.com/seahahn/data_analysis)
 <blockquote>
   
 - 게임 회사 데이터 팀이란 가정 하에 주어진 데이터를 통해 다음 분기 게임 설계 방향에 대한 인사이트 도출
