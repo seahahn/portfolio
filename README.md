@@ -32,7 +32,7 @@
   | 분류 | 기술 목록 |
   | --- | --- |
   | Frontend | React.js, TailwindCSS |
-  | Backend | FastAPI, DJango, Fastify, Python, Go |
+  | Backend | FastAPI, Django, Fastify, Python, Go |
   | Database | PostgreSQL, MongoDB |
   | DevOps | AWS (S3, Lambda), GCP (App Engine, Cloud Build), Heroku, Vercel |
   | Data Science | Pandas, Scikit-Learn, Bokeh |
@@ -150,7 +150,7 @@
   | 분류 | 기술 목록 |
   | --- | --- |  
   | Frontend | HTML/CSS/JS, jQuery, Bootstrap |
-  | Backend | PHP, Apache |
+  | Backend | PHP, Apache HTTP Server |
   | Database | MariaDB |
   | DevOps | AWS (EC2, S3, Route 53) |
   | etc. | Git |
